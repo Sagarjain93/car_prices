@@ -1,5 +1,7 @@
 **🚗 Vehicle Sales EDA Project**
 
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/4cd5eb53-35c6-451c-81f3-b17fdffc68fc" />
+
 
 
 **📊 Exploratory Data Analysis on Used Car Sales Data**
